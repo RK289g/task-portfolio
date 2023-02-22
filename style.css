@@ -1,0 +1,164 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.top-corner {
+    margin-right: 8%;
+}
+
+p.p-class {
+    float: right;
+    font-weight: 700;
+    font-size: x-large;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.flex {
+    display: flex;
+    padding-top: 7%;
+    margin-left: 18%;
+
+}
+
+.flex-left {
+    width: 50%;
+}
+
+.flex-right {
+    width: 50%;
+}
+
+h1 {
+    font-size: 300%;
+    font-weight: bold;
+}
+
+p.intro {
+    font-size: 150%;
+    font-weight: 600;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-left: 50%;
+    box-shadow: 20px;
+}
+
+.link-button {
+    margin-left: 18%;
+    background-color: #FF6464;
+    color: azure;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 8px 8px 8px 8px;
+    font-size: x-large;
+    border: none;
+}
+
+.recent-post {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 8%;
+    padding-right: 8%;
+    font-size: 110%;
+}
+
+div.card-show {
+    background-color: #eaeff1;
+    margin-left: 12%;
+    margin-right: 8%;
+    margin-top: 2%;
+}
+
+.view {
+    color: blue;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.card-content {
+    background-color: aliceblue;
+    width: 30%;
+    padding-left: 15px;
+    margin-bottom: 2%;
+    padding-right: 3%;
+}
+
+h2 {
+    font-size: 35px;
+    line-height: 38px;
+}
+
+.feature-work {
+    margin-left: 12%;
+    margin-right: 8%;
+    margin-top: 2%;
+}
+
+.feature-show {
+    display: flex;
+    justify-content: space-between;
+}
+
+.images-feature {
+    width: 18%;
+}
+
+.Feature-details {
+    width: 65%;
+}
+
+.feature-image {
+    height: 250px;
+    width: 250px;
+}
+
+.button-work {
+    width: 60%;
+    display: flex;
+    gap: 10px;
+}
+
+.button-year {
+    background-color: #142850;
+    color: azure;
+    text-decoration: none;
+    border-radius: 16px;
+    font-size: 900;
+    border: none;
+}
+
+.logo {
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    height: 70px;
+    width: 70px;
+    background-color: #cdd7e0;
+    border-radius: 50px;
+    text-align: center;
+    margin: 10px;
+    box-shadow: 2px 2px 2px 2px #8497e2;
+    line-height: 90px;
+}
+
+a i {
+    font-size: 30px;
+}
+
+.footer {
+    text-align: center;
+}
